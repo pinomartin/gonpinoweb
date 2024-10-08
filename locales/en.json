@@ -1,0 +1,22 @@
+{
+    "header": {
+      "title": "Gon Pino"
+    },
+    "about": {
+      "title": "About me",
+      "experience": {
+        "title": "Experience",
+        "description": "With over 10 years in the electronic scene, I've brought my music to the best clubs in Spain and Europe."
+      },
+      "style": {
+        "title": "Style",
+        "description": "My sound is characterized by mixing techno with house and trance influences, creating energetic and immersive sets."
+      }
+    },
+    "music": {
+      "title": "My music"
+    },
+    "contact": {
+      "title": "Contact"
+    }
+  }
